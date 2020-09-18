@@ -4,20 +4,15 @@ Hello. This is my simple personal website. In this excercies we push a simple je
 
 ## Steps for Setup:
 
-### Make sure you have Ruby
+### Make sure you have Ruby & Bundler
 
 First, make sure you have [Ruby](https://www.ruby-lang.org/en/) installed. 
+Next, make sure you have [Bundler](https://bundler.io) installed. 
 
 ```sh
 $ ruby -v
 ruby [version number] (date) [your platform]
-```
 
-### Make sure you have Bundler
-
-Next, make sure you have [Bundler](https://bundler.io) installed. 
-
-```sh
 $ bundle -v
 bundle [version number]
 ```
