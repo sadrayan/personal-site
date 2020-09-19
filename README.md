@@ -2,6 +2,8 @@
 
 Hello. This is my simple personal website. In this excercies we push a simple jekyll based website to AWS S3 with Github Actions pipelines.
 
+[https://sadrayan.s3-us-west-2.amazonaws.com/index.html]https://sadrayan.s3-us-west-2.amazonaws.com/index.html
+
 ## Steps for Setup:
 
 ### Make sure you have Ruby & Bundler
